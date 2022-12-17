@@ -1,0 +1,3 @@
+from src.flask_app.dash_app.callbacks.signin_callback import register_callbacks as register_signin_callbacks
+from src.flask_app.dash_app.callbacks.signup_callback import register_callbacks as register_signup_callbacks
+from src.flask_app.dash_app.callbacks.dashboard_callback import register_callbacks as register_dashboard_callbacks

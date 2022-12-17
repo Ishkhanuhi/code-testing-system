@@ -1,0 +1,19 @@
+name: code-testing-system
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.8.12
+  - flask-migrate=3.1.0
+  - flask=2.2.2
+  - flask-sqlalchemy=2.5.1
+  - python-dotenv=0.19.2
+  - psycopg2=2.8.6
+  - omegaconf=2.1.1
+  - hydra-core=1.1.1
+  - rich=10.11.0
+  - requests=2.26.0
+  - markupsafe=2.1.1
+  - werkzeug=2.2.2
+  - dash=2.5.0

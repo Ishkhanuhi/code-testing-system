@@ -1,0 +1,12 @@
+# @package _global_
+
+name: start_web_app
+print_config: True
+ignore_warnings: True
+
+port: 5000
+host: "0.0.0.0"
+debug: True
+
+input_file_path: '../test_cases/inputs'
+output_file_path: '../test_cases/expected_outputs'
